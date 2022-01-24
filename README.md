@@ -7,7 +7,7 @@ Exploring the MNIST dataset.
 Command to run the program: python average_perceptron.py training_size epochs learning_rate
 For example: python average_perceptron.py 10000 25 0.001
 
-2. Predicting with linear classifier with logistic regression loss function and L2 regularization, the loss function is optimized with stochastic gradient descent method.
+2. Predicting with linear classifier with log loss function and L2 regularization, the loss function is optimized with stochastic gradient descent method.
 
 Command to run the program: python sgd.py [regularization? True / False] [Feature_type? type1 / type2] .
 
